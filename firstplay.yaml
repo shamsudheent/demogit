@@ -1,6 +1,0 @@
----
- - hosts: all
-     tasks:
-       - command: "hostname"
-       - command: "host -r"
-       - command: "hahaha"
